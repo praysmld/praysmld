@@ -1,5 +1,5 @@
-👋 Hi, I'm @prays  
-💻 I’m interested in Machine Learning and Computer Vision  
-🌱 I’m currently learning ML for Deployment  
+👋 Hi, I'm @praysmld
+💻 I’m interested in LLM and Computer Vision  
+🌱 I’m currently learning MLOps for Deployment  
 💞️ I’m looking to collaborate on cool projects  
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+📫 You can reach me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pray-somaldo-182725147/))
