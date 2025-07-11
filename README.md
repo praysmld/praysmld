@@ -1,4 +1,4 @@
-👋 Hi, I'm @praysmld  
+👋 Hi, I'm Pray
 💻 I’m interested in LLM and Computer Vision  
 🌱 I’m currently learning MLOps for Deployment  
 💞️ I’m looking to collaborate on cool projects  
